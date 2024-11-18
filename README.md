@@ -1,6 +1,6 @@
 # LLM Engineering - Parameter Documentation
 
-A comprehensive guide to LLM parameters using Jupyter notebooks, Ollama, and Llama2. Perfect for learning LLM prompting over a weekend! This repository was created with help from [devin.ai](https://devin.ai/).
+A comprehensive guide to LLM parameters using Jupyter notebooks, Ollama, and Llama3. Perfect for learning LLM prompting over a weekend! This repository was created with help from [devin.ai](https://devin.ai/).
 
 ## Overview
 
@@ -20,10 +20,10 @@ This repository provides detailed documentation and practical examples for under
 pip install jupyter nbformat
 ```
 
-2. Install Ollama and download Llama2:
+2. Install Ollama and download Llama3:
 ```bash
 # Follow Ollama installation instructions at https://ollama.ai
-ollama pull llama2
+ollama pull llama3
 ```
 
 3. Run Jupyter:
