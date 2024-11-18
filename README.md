@@ -1,4 +1,4 @@
-# LLM Engineering - Parameter Documentation
+# LLM Engineering - Learning by Doing
 
 A comprehensive guide to LLM parameters using Jupyter notebooks, Ollama, and Llama3. Perfect for learning LLM prompting over a weekend! This repository was created with help from [devin.ai](https://devin.ai/).
 
