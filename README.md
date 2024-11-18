@@ -1,10 +1,16 @@
 # LLM Engineering - Learning by Doing
 
-A comprehensive guide to LLM parameters using Jupyter notebooks, Ollama, and Llama3. Perfect for learning LLM prompting over a weekend! This repository was created with help from [devin.ai](https://devin.ai/).
+A practical guide to becoming a prompt engineer through hands-on learning with real recruitment scenarios. Perfect for learning LLM prompting over a weekend! This repository was created with help from [devin.ai](https://devin.ai/).
 
 ## Overview
 
-This repository provides detailed documentation and practical examples for understanding and effectively using various LLM (Large Language Model) parameters. Through interactive Jupyter notebooks, you'll learn how each parameter affects model behavior and performance.
+This repository provides a hands-on approach to mastering prompt engineering through practical examples in recruitment scenarios. You'll learn by doing, working through interactive Jupyter notebooks that demonstrate how to:
+- Analyze resumes and job descriptions
+- Create targeted recruitment prompts
+- Generate effective interview questions
+- Evaluate candidate responses
+- Assess cultural fit
+
 
 ## Prerequisites
 
